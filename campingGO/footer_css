@@ -1,0 +1,9 @@
+footer.jsp 파일 style.css적용
+
+style.css파일에 적용해주시면됩니다!
+footer {
+	font-size : 8pt;
+	color:#adb5bd;
+	padding-top: 50px;
+	padding-bottom: 40px;
+}
